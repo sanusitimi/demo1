@@ -1,0 +1,111 @@
+body {
+  background-color:#faf3dd
+}
+
+p.fun{
+    font-family: 'Fredoka', sans-serif;
+    text-align: center;
+    color:#4b5a1d;
+    font-size: 20pt;
+}
+
+h1.intro {
+    font-family: 'Fredoka', sans-serif;
+    padding-top: 30pt;
+    text-align: center;
+    color:#4b5a1d;
+    font-size: 26pt;
+}
+
+h1.about {
+    font-family: 'Fredoka', sans-serif;
+    padding-top: 15pt;
+    text-align: center;
+    color:#4b5a1d;
+    font-size: 36pt;
+}
+
+h2 {
+    font-family: 'Fredoka', sans-serif;
+    padding-top: 30pt;
+    padding-left: 368pt;
+    text-align: left;
+    color:#4b5a1d;
+    font-size: 22pt;
+}
+
+form {
+    font-family: 'Fredoka', sans-serif;
+    text-align: left;
+    padding-left: 368pt;
+    color:#4b5a1d;
+    font-size: 16pt;
+}
+
+button.submit {
+    font-family: 'Fredoka', sans-serif;
+    width: 80pt;
+    font-weight: bold;
+    height: 24pt;
+}
+
+input {
+    width: 175pt;
+}
+
+button.game {
+    font-family: 'Fredoka', sans-serif;
+    width: 205px;
+    font-weight: bold;
+    height: 35px;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button.actions {
+    font-family: 'Fredoka', sans-serif;
+    width: 160pt;
+    font-weight: bold;
+    height: 24pt;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    font-family: 'Fredoka', sans-serif;
+    text-align: left;
+    color:#4b5a1d;
+    font-size: 18pt;
+    width: 75%;
+}
+
+p.info {
+    font-family: 'Fredoka', sans-serif;
+    text-align: left;
+    color:#4b5a1d;
+    font-size: 18pt;
+}
+
+table, td, th {
+    border: 4px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+    text-align: center;
+}
+
+.link {
+    font-size: 14pt;
+    text-align: center;
+    color: #4b5a1d;
+    padding-top: 20pt;
+}
